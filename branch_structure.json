@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-78-frontend-announce-transaction-and-validation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-78-frontend-announce-transaction-and-validation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-78-frontend-announce-transaction-and-validation",
+    "origin"
+  ]
+}
